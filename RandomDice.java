@@ -20,5 +20,12 @@ class RandomDice{
 	    num += x;
 	}
 	System.out.println("Total value: "+num);
+
+	if(num > 7){
+	    System.out.println(name+" won");
+	}
+	else{
+	    System.out.println(name+" lose");
+	}
     }
 }
