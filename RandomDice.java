@@ -27,5 +27,6 @@ class RandomDice{
 	else{
 	    System.out.println(name+" lose");
 	}
+	    	//手順6でやることを手順5でやってしまったので、手順6の代わりにこのメッセージを追加//
     }
 }
